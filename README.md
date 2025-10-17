@@ -1,1 +1,3 @@
-# 6WCSERVER-WD-304-Joy-Tienzo-s-Dress-Shop-Web-Application
+6WCSERVER-WD-304-Joy-Tienzo-s-Dress-Shop-Web-Application
+Joy Tienzo’s Dress Shop Web Application is an e-commerce platform designed to streamline online dress shopping and store management. It allows users to browse, search, and purchase dresses while enabling administrators to manage products, customer data, and orders efficiently. The system is developed using HTML, CSS, and JavaScript for the frontend and MongoDB for the backend database.
+This application provides both customer and admin interfaces. Customers can log in, view available products, add items to their cart, and place orders, while administrators can handle inventory, view customer inquiries, and manage orders. The system leverages MongoDB’s flexible document structure to store users, products, and order data efficiently, ensuring quick retrieval and scalability.
